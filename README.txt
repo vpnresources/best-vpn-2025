@@ -39,3 +39,10 @@ Amazon S3 mirror (direct object links):
 - S3 (README): https://gvpa-datasets-globalvpnaccess.s3.us-west-2.amazonaws.com/datasets/v1/README.txt
 - S3 (Last Updated): https://gvpa-datasets-globalvpnaccess.s3.us-west-2.amazonaws.com/datasets/v1/last_updated.txt
 
+Google Cloud Storage mirror (direct object links):
+- GCS (CSV): https://storage.googleapis.com/gvpa-datasets-globalvpnaccess-gcs/datasets/v1/vpn_data.csv
+- GCS (JSON): https://storage.googleapis.com/gvpa-datasets-globalvpnaccess-gcs/datasets/v1/vpn_data.json
+- GCS (README): https://storage.googleapis.com/gvpa-datasets-globalvpnaccess-gcs/datasets/v1/README.txt
+- GCS (Last Updated): https://storage.googleapis.com/gvpa-datasets-globalvpnaccess-gcs/datasets/v1/last_updated.txt
+
+
