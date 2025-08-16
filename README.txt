@@ -334,11 +334,11 @@
 
 ---
 
-## Cloudflare R2 Mirror (direct object links)
-- R2 (CSV): https://gvpa-datasets.globalvpnaccess.r2.cloudflarestorage.com/datasets/v1/vpn_data.csv
-- R2 (JSON): https://gvpa-datasets.globalvpnaccess.r2.cloudflarestorage.com/datasets/v1/vpn_data.json
-- R2 (README): https://gvpa-datasets.globalvpnaccess.r2.cloudflarestorage.com/datasets/v1/README.txt
-- R2 (Last Updated): https://gvpa-datasets.globalvpnaccess.r2.cloudflarestorage.com/datasets/v1/last_updated.txt
+## Cloudflare R2 Mirror (r2.dev)
+- R2 (CSV): https://pub-eca5c294abe546baa2dddbe7891682da.r2.dev/datasets/v1/vpn_data.csv
+- R2 (JSON): https://pub-eca5c294abe546baa2dddbe7891682da.r2.dev/datasets/v1/vpn_data.json
+- R2 (README): https://pub-eca5c294abe546baa2dddbe7891682da.r2.dev/datasets/v1/README.txt
+- R2 (Last Updated): https://pub-eca5c294abe546baa2dddbe7891682da.r2.dev/datasets/v1/last_updated.txt
 
 ---
 
