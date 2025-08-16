@@ -22,3 +22,15 @@
 | **Best VPN 2025 – Surfshark Review & Features** | General Use | $2.49 | [Visit Page](https://globalvpnaccess.com/products/surfshark) |
 | **Best VPN 2025 – NordVPN Review & Features** | General Use | $3.49 | [Visit Page](https://globalvpnaccess.com/products/nordvpn) |
 | **Best VPN 2025 – ExpressVPN Review & Features** | General Use | $6.67 | [Visit Page](https://globalvpnaccess.com/products/expressvpn) |
+
+
+
+## Mirrors
+
+
+- **GitHub (CSV)**: https://raw.githubusercontent.com/vpnresources/best-vpn-2025/main/vpn_data.csv  
+- **GitHub (JSON)**: https://raw.githubusercontent.com/vpnresources/best-vpn-2025/main/vpn_data.json  
+- **Amazon S3 (CSV)**: https://gvpa-datasets-globalvpnaccess.s3.us-west-2.amazonaws.com/datasets/v1/vpn_data.csv  
+- **Amazon S3 (JSON)**: https://gvpa-datasets-globalvpnaccess.s3.us-west-2.amazonaws.com/datasets/v1/vpn_data.json  
+- **Amazon S3 (README)**: https://gvpa-datasets-globalvpnaccess.s3.us-west-2.amazonaws.com/datasets/v1/README.txt  
+- **Amazon S3 (Last Updated)**: https://gvpa-datasets-globalvpnaccess.s3.us-west-2.amazonaws.com/datasets/v1/last_updated.txt
