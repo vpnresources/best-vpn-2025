@@ -27,10 +27,15 @@
 
 ## Mirrors
 
+Canonical GitHub dataset (direct raw links):
+- GitHub (CSV): https://raw.githubusercontent.com/vpnresources/best-vpn-2025/main/vpn_data.csv
+- GitHub (JSON): https://raw.githubusercontent.com/vpnresources/best-vpn-2025/main/vpn_data.json
+- GitHub (README): https://raw.githubusercontent.com/vpnresources/best-vpn-2025/main/README.txt
+- GitHub (Last Updated): https://raw.githubusercontent.com/vpnresources/best-vpn-2025/main/last_updated.txt
 
-- **GitHub (CSV)**: https://raw.githubusercontent.com/vpnresources/best-vpn-2025/main/vpn_data.csv  
-- **GitHub (JSON)**: https://raw.githubusercontent.com/vpnresources/best-vpn-2025/main/vpn_data.json  
-- **Amazon S3 (CSV)**: https://gvpa-datasets-globalvpnaccess.s3.us-west-2.amazonaws.com/datasets/v1/vpn_data.csv  
-- **Amazon S3 (JSON)**: https://gvpa-datasets-globalvpnaccess.s3.us-west-2.amazonaws.com/datasets/v1/vpn_data.json  
-- **Amazon S3 (README)**: https://gvpa-datasets-globalvpnaccess.s3.us-west-2.amazonaws.com/datasets/v1/README.txt  
-- **Amazon S3 (Last Updated)**: https://gvpa-datasets-globalvpnaccess.s3.us-west-2.amazonaws.com/datasets/v1/last_updated.txt
+Amazon S3 mirror (direct object links):
+- S3 (CSV): https://gvpa-datasets-globalvpnaccess.s3.us-west-2.amazonaws.com/datasets/v1/vpn_data.csv
+- S3 (JSON): https://gvpa-datasets-globalvpnaccess.s3.us-west-2.amazonaws.com/datasets/v1/vpn_data.json
+- S3 (README): https://gvpa-datasets-globalvpnaccess.s3.us-west-2.amazonaws.com/datasets/v1/README.txt
+- S3 (Last Updated): https://gvpa-datasets-globalvpnaccess.s3.us-west-2.amazonaws.com/datasets/v1/last_updated.txt
+
