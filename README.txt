@@ -351,9 +351,9 @@
 ---
 
 ## Backblaze B2 Mirror (direct object links)
-- B2 (CSV): https://f002.backblazeb2.com/file/gvpa-datasets/datasets/v1/vpn_data.csv
-- B2 (JSON): https://f002.backblazeb2.com/file/gvpa-datasets/datasets/v1/vpn_data.json
-- B2 (README): https://f002.backblazeb2.com/file/gvpa-datasets/datasets/v1/README.txt
-- B2 (Last Updated): https://f002.backblazeb2.com/file/gvpa-datasets/datasets/v1/last_updated.txt
+- B2 (CSV): https://f005.backblazeb2.com/file/gvpa-datasets/datasets/v1/vpn_data.csv
+- B2 (JSON): https://f005.backblazeb2.com/file/gvpa-datasets/datasets/v1/vpn_data.json
+- B2 (README): https://f005.backblazeb2.com/file/gvpa-datasets/datasets/v1/README.txt
+- B2 (Last Updated): https://f005.backblazeb2.com/file/gvpa-datasets/datasets/v1/last_updated.txt
 
 ---
