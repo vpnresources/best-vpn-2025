@@ -1,21 +1,21 @@
-name	handle	url	price	currency
-Atlas VPN	atlas-vpn	https://globalvpnaccess.com/products/atlas-vpn	1.99	USD
-CyberGhost VPN	cyberghost	https://globalvpnaccess.com/products/cyberghost	2.29	USD
-ExpressVPN	expressvpn	https://globalvpnaccess.com/products/expressvpn	6.67	USD
-FastestVPN	fastestvpn	https://globalvpnaccess.com/products/fastestvpn	1.66	USD
-Hide.me VPN	hide-me	https://globalvpnaccess.com/products/hide-me	4.99	USD
-Hotspot Shield	hotspot-shield	https://globalvpnaccess.com/products/hotspot-shield	7.99	USD
-IPVanish	ipvanish	https://globalvpnaccess.com/products/ipvanish	3.33	USD
-Ivacy VPN	ivacy	https://globalvpnaccess.com/products/ivacy	1.99	USD
-Mullvad VPN	mullvad	https://globalvpnaccess.com/products/mullvad	5	USD
-NordVPN	nordvpn	https://globalvpnaccess.com/products/nordvpn	3.49	USD
-PrivadoVPN	privadovpn	https://globalvpnaccess.com/products/privadovpn	2.5	USD
-Private Internet Access	private-internet-access	https://globalvpnaccess.com/products/private-internet-access	2.03	USD
-Proton VPN	proton-vpn	https://globalvpnaccess.com/products/proton-vpn	4.99	USD
-PureVPN	purevpn	https://globalvpnaccess.com/products/purevpn	2.29	USD
-StrongVPN	strongvpn	https://globalvpnaccess.com/products/strongvpn	3.66	USD
-Surfshark	surfshark	https://globalvpnaccess.com/products/surfshark	2.49	USD
-TunnelBear	tunnelbear	https://globalvpnaccess.com/products/tunnelbear	3.33	USD
-VyprVPN	vyprvpn	https://globalvpnaccess.com/products/vyprvpn	5	USD
-Windscribe	windscribe	https://globalvpnaccess.com/products/windscribe	4.12	USD
-ZoogVPN	zoogvpn	https://globalvpnaccess.com/products/zoogvpn	1.87	USD
+name,handle,url,price,currency
+Atlas VPN,atlas-vpn,https://globalvpnaccess.com/products/atlas-vpn,1.99,USD
+CyberGhost VPN,cyberghost,https://globalvpnaccess.com/products/cyberghost,2.29,USD
+ExpressVPN,expressvpn,https://globalvpnaccess.com/products/expressvpn,6.67,USD
+FastestVPN,fastestvpn,https://globalvpnaccess.com/products/fastestvpn,1.66,USD
+Hide.me VPN,hide-me,https://globalvpnaccess.com/products/hide-me,4.99,USD
+Hotspot Shield,hotspot-shield,https://globalvpnaccess.com/products/hotspot-shield,7.99,USD
+IPVanish,ipvanish,https://globalvpnaccess.com/products/ipvanish,3.33,USD
+Ivacy VPN,ivacy,https://globalvpnaccess.com/products/ivacy,1.99,USD
+Mullvad VPN,mullvad,https://globalvpnaccess.com/products/mullvad,5,USD
+NordVPN,nordvpn,https://globalvpnaccess.com/products/nordvpn,3.49,USD
+PrivadoVPN,privadovpn,https://globalvpnaccess.com/products/privadovpn,2.5,USD
+Private Internet Access,private-internet-access,https://globalvpnaccess.com/products/private-internet-access,2.03,USD
+Proton VPN,proton-vpn,https://globalvpnaccess.com/products/proton-vpn,4.99,USD
+PureVPN,purevpn,https://globalvpnaccess.com/products/purevpn,2.29,USD
+StrongVPN,strongvpn,https://globalvpnaccess.com/products/strongvpn,3.66,USD
+Surfshark,surfshark,https://globalvpnaccess.com/products/surfshark,2.49,USD
+TunnelBear,tunnelbear,https://globalvpnaccess.com/products/tunnelbear,3.33,USD
+VyprVPN,vyprvpn,https://globalvpnaccess.com/products/vyprvpn,5,USD
+Windscribe,windscribe,https://globalvpnaccess.com/products/windscribe,4.12,USD
+ZoogVPN,zoogvpn,https://globalvpnaccess.com/products/zoogvpn,1.87,USD
