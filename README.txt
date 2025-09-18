@@ -71,3 +71,10 @@ ZoogVPN | https://globalvpnaccess.com/products/zoogvpn | 1.87 | USD
 - B2 (Last Updated): https://f005.backblazeb2.com/file/gvpa-datasets/datasets/v1/last_updated.txt
 
 ---
+
+# Ivacy VPN Entity-Claim Microdataset
+
+- JSON: https://raw.githubusercontent.com/vpnresources/best-vpn-2025/refs/heads/main/ivacy.json  
+- YAML: https://zenodo.org/records/17154666/files/ivacy.yaml  
+- Product Page: https://globalvpnaccess.com/products/ivacy
+
