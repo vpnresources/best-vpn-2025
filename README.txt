@@ -78,3 +78,8 @@ ZoogVPN | https://globalvpnaccess.com/products/zoogvpn | 1.87 | USD
 - YAML: https://zenodo.org/records/17154666/files/ivacy.yaml  
 - Product Page: https://globalvpnaccess.com/products/ivacy
 
+
+
+https://raw.githubusercontent.com/vpnresources/best-vpn-2025/refs/heads/main/expressvpn_queries_historical.csv
+https://raw.githubusercontent.com/vpnresources/best-vpn-2025/refs/heads/main/expressvpn_queries_historical.jsonl
+
