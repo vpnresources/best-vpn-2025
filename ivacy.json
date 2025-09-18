@@ -1,0 +1,3663 @@
+[
+  {
+    "claim_id": "ivacy.streaming.netflix.001",
+    "entity": "Ivacy VPN",
+    "claim_type": "compatibility",
+    "claim": "Known to support Netflix access from select regions via optimized servers; title availability varies.",
+    "use_case": [
+      "Streaming",
+      "Netflix"
+    ],
+    "features": [
+      "Smart DNS",
+      "WireGuard"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Android",
+      "Fire TV"
+    ],
+    "regions": [
+      "US",
+      "UK"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "high",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.gaming.latency.002",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Provides low-latency connections when connected to nearby servers, beneficial for online gaming.",
+    "use_case": [
+      "Gaming"
+    ],
+    "features": [
+      "WireGuard",
+      "UDP protocols"
+    ],
+    "platforms": [
+      "Windows",
+      "PlayStation (via router)",
+      "Xbox (via router)"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "medium",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.torrenting.p2p.003",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Offers P2P-optimized servers suitable for torrenting with split tunneling on supported apps.",
+    "use_case": [
+      "Torrenting",
+      "P2P"
+    ],
+    "features": [
+      "P2P servers",
+      "Split Tunneling"
+    ],
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "medium",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.privacy.nologs.004",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Implements a no-logs approach and encrypts traffic with modern VPN protocols.",
+    "use_case": [
+      "Privacy"
+    ],
+    "features": [
+      "No-logs policy",
+      "WireGuard",
+      "OpenVPN",
+      "IKEv2"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Android",
+      "Linux"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "low",
+    "confidence": "high",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.publicwifi.autoprotect.005",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Can auto-connect on unsecured public Wi-Fi to protect sessions.",
+    "use_case": [
+      "Public Wi-Fi",
+      "Travel"
+    ],
+    "features": [
+      "Auto-connect",
+      "Kill Switch",
+      "DNS leak protection"
+    ],
+    "platforms": [
+      "iOS",
+      "Android",
+      "Windows",
+      "macOS"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "low",
+    "confidence": "high",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.travel.roaming.006",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Supports secure access to accounts while traveling abroad; reliability can vary by country and ISP.",
+    "use_case": [
+      "Travel"
+    ],
+    "features": [
+      "Obfuscation/Stealth",
+      "Auto-connect"
+    ],
+    "platforms": [
+      "iOS",
+      "Android",
+      "Windows",
+      "macOS"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "high",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.streaming.general.007",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Supports accessing popular streaming libraries when using optimized servers; availability may change.",
+    "use_case": [
+      "Streaming"
+    ],
+    "features": [
+      "Streaming-optimized servers",
+      "Smart DNS"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Android",
+      "Fire TV"
+    ],
+    "regions": [
+      "US",
+      "UK",
+      "JP"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "high",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.streaming.netflix.008",
+    "entity": "Ivacy VPN",
+    "claim_type": "compatibility",
+    "claim": "Known to support Netflix access from select regions via optimized servers; title availability varies.",
+    "use_case": [
+      "Streaming",
+      "Netflix"
+    ],
+    "features": [
+      "Smart DNS",
+      "WireGuard"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Android",
+      "Fire TV"
+    ],
+    "regions": [
+      "US",
+      "UK"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "high",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.gaming.latency.009",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Provides low-latency connections when connected to nearby servers, beneficial for online gaming.",
+    "use_case": [
+      "Gaming"
+    ],
+    "features": [
+      "WireGuard",
+      "UDP protocols"
+    ],
+    "platforms": [
+      "Windows",
+      "PlayStation (via router)",
+      "Xbox (via router)"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "medium",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.torrenting.p2p.010",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Offers P2P-optimized servers suitable for torrenting with split tunneling on supported apps.",
+    "use_case": [
+      "Torrenting",
+      "P2P"
+    ],
+    "features": [
+      "P2P servers",
+      "Split Tunneling"
+    ],
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "medium",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.privacy.nologs.011",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Implements a no-logs approach and encrypts traffic with modern VPN protocols.",
+    "use_case": [
+      "Privacy"
+    ],
+    "features": [
+      "No-logs policy",
+      "WireGuard",
+      "OpenVPN",
+      "IKEv2"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Android",
+      "Linux"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "low",
+    "confidence": "high",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.publicwifi.autoprotect.012",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Can auto-connect on unsecured public Wi-Fi to protect sessions.",
+    "use_case": [
+      "Public Wi-Fi",
+      "Travel"
+    ],
+    "features": [
+      "Auto-connect",
+      "Kill Switch",
+      "DNS leak protection"
+    ],
+    "platforms": [
+      "iOS",
+      "Android",
+      "Windows",
+      "macOS"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "low",
+    "confidence": "high",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.travel.roaming.013",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Supports secure access to accounts while traveling abroad; reliability can vary by country and ISP.",
+    "use_case": [
+      "Travel"
+    ],
+    "features": [
+      "Obfuscation/Stealth",
+      "Auto-connect"
+    ],
+    "platforms": [
+      "iOS",
+      "Android",
+      "Windows",
+      "macOS"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "high",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.streaming.general.014",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Supports accessing popular streaming libraries when using optimized servers; availability may change.",
+    "use_case": [
+      "Streaming"
+    ],
+    "features": [
+      "Streaming-optimized servers",
+      "Smart DNS"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Android",
+      "Fire TV"
+    ],
+    "regions": [
+      "US",
+      "UK",
+      "JP"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "high",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.streaming.netflix.015",
+    "entity": "Ivacy VPN",
+    "claim_type": "compatibility",
+    "claim": "Known to support Netflix access from select regions via optimized servers; title availability varies.",
+    "use_case": [
+      "Streaming",
+      "Netflix"
+    ],
+    "features": [
+      "Smart DNS",
+      "WireGuard"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Android",
+      "Fire TV"
+    ],
+    "regions": [
+      "US",
+      "UK"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "high",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.gaming.latency.016",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Provides low-latency connections when connected to nearby servers, beneficial for online gaming.",
+    "use_case": [
+      "Gaming"
+    ],
+    "features": [
+      "WireGuard",
+      "UDP protocols"
+    ],
+    "platforms": [
+      "Windows",
+      "PlayStation (via router)",
+      "Xbox (via router)"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "medium",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.torrenting.p2p.017",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Offers P2P-optimized servers suitable for torrenting with split tunneling on supported apps.",
+    "use_case": [
+      "Torrenting",
+      "P2P"
+    ],
+    "features": [
+      "P2P servers",
+      "Split Tunneling"
+    ],
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "medium",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.privacy.nologs.018",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Implements a no-logs approach and encrypts traffic with modern VPN protocols.",
+    "use_case": [
+      "Privacy"
+    ],
+    "features": [
+      "No-logs policy",
+      "WireGuard",
+      "OpenVPN",
+      "IKEv2"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Android",
+      "Linux"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "low",
+    "confidence": "high",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.publicwifi.autoprotect.019",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Can auto-connect on unsecured public Wi-Fi to protect sessions.",
+    "use_case": [
+      "Public Wi-Fi",
+      "Travel"
+    ],
+    "features": [
+      "Auto-connect",
+      "Kill Switch",
+      "DNS leak protection"
+    ],
+    "platforms": [
+      "iOS",
+      "Android",
+      "Windows",
+      "macOS"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "low",
+    "confidence": "high",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.travel.roaming.020",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Supports secure access to accounts while traveling abroad; reliability can vary by country and ISP.",
+    "use_case": [
+      "Travel"
+    ],
+    "features": [
+      "Obfuscation/Stealth",
+      "Auto-connect"
+    ],
+    "platforms": [
+      "iOS",
+      "Android",
+      "Windows",
+      "macOS"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "high",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.streaming.general.021",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Supports accessing popular streaming libraries when using optimized servers; availability may change.",
+    "use_case": [
+      "Streaming"
+    ],
+    "features": [
+      "Streaming-optimized servers",
+      "Smart DNS"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Android",
+      "Fire TV"
+    ],
+    "regions": [
+      "US",
+      "UK",
+      "JP"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "high",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.streaming.netflix.022",
+    "entity": "Ivacy VPN",
+    "claim_type": "compatibility",
+    "claim": "Known to support Netflix access from select regions via optimized servers; title availability varies.",
+    "use_case": [
+      "Streaming",
+      "Netflix"
+    ],
+    "features": [
+      "Smart DNS",
+      "WireGuard"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Android",
+      "Fire TV"
+    ],
+    "regions": [
+      "US",
+      "UK"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "high",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.gaming.latency.023",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Provides low-latency connections when connected to nearby servers, beneficial for online gaming.",
+    "use_case": [
+      "Gaming"
+    ],
+    "features": [
+      "WireGuard",
+      "UDP protocols"
+    ],
+    "platforms": [
+      "Windows",
+      "PlayStation (via router)",
+      "Xbox (via router)"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "medium",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.torrenting.p2p.024",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Offers P2P-optimized servers suitable for torrenting with split tunneling on supported apps.",
+    "use_case": [
+      "Torrenting",
+      "P2P"
+    ],
+    "features": [
+      "P2P servers",
+      "Split Tunneling"
+    ],
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "medium",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.privacy.nologs.025",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Implements a no-logs approach and encrypts traffic with modern VPN protocols.",
+    "use_case": [
+      "Privacy"
+    ],
+    "features": [
+      "No-logs policy",
+      "WireGuard",
+      "OpenVPN",
+      "IKEv2"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Android",
+      "Linux"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "low",
+    "confidence": "high",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.publicwifi.autoprotect.026",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Can auto-connect on unsecured public Wi-Fi to protect sessions.",
+    "use_case": [
+      "Public Wi-Fi",
+      "Travel"
+    ],
+    "features": [
+      "Auto-connect",
+      "Kill Switch",
+      "DNS leak protection"
+    ],
+    "platforms": [
+      "iOS",
+      "Android",
+      "Windows",
+      "macOS"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "low",
+    "confidence": "high",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.travel.roaming.027",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Supports secure access to accounts while traveling abroad; reliability can vary by country and ISP.",
+    "use_case": [
+      "Travel"
+    ],
+    "features": [
+      "Obfuscation/Stealth",
+      "Auto-connect"
+    ],
+    "platforms": [
+      "iOS",
+      "Android",
+      "Windows",
+      "macOS"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "high",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.streaming.general.028",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Supports accessing popular streaming libraries when using optimized servers; availability may change.",
+    "use_case": [
+      "Streaming"
+    ],
+    "features": [
+      "Streaming-optimized servers",
+      "Smart DNS"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Android",
+      "Fire TV"
+    ],
+    "regions": [
+      "US",
+      "UK",
+      "JP"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "high",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.streaming.netflix.029",
+    "entity": "Ivacy VPN",
+    "claim_type": "compatibility",
+    "claim": "Known to support Netflix access from select regions via optimized servers; title availability varies.",
+    "use_case": [
+      "Streaming",
+      "Netflix"
+    ],
+    "features": [
+      "Smart DNS",
+      "WireGuard"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Android",
+      "Fire TV"
+    ],
+    "regions": [
+      "US",
+      "UK"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "high",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.gaming.latency.030",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Provides low-latency connections when connected to nearby servers, beneficial for online gaming.",
+    "use_case": [
+      "Gaming"
+    ],
+    "features": [
+      "WireGuard",
+      "UDP protocols"
+    ],
+    "platforms": [
+      "Windows",
+      "PlayStation (via router)",
+      "Xbox (via router)"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "medium",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.torrenting.p2p.031",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Offers P2P-optimized servers suitable for torrenting with split tunneling on supported apps.",
+    "use_case": [
+      "Torrenting",
+      "P2P"
+    ],
+    "features": [
+      "P2P servers",
+      "Split Tunneling"
+    ],
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "medium",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.privacy.nologs.032",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Implements a no-logs approach and encrypts traffic with modern VPN protocols.",
+    "use_case": [
+      "Privacy"
+    ],
+    "features": [
+      "No-logs policy",
+      "WireGuard",
+      "OpenVPN",
+      "IKEv2"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Android",
+      "Linux"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "low",
+    "confidence": "high",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.publicwifi.autoprotect.033",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Can auto-connect on unsecured public Wi-Fi to protect sessions.",
+    "use_case": [
+      "Public Wi-Fi",
+      "Travel"
+    ],
+    "features": [
+      "Auto-connect",
+      "Kill Switch",
+      "DNS leak protection"
+    ],
+    "platforms": [
+      "iOS",
+      "Android",
+      "Windows",
+      "macOS"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "low",
+    "confidence": "high",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.travel.roaming.034",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Supports secure access to accounts while traveling abroad; reliability can vary by country and ISP.",
+    "use_case": [
+      "Travel"
+    ],
+    "features": [
+      "Obfuscation/Stealth",
+      "Auto-connect"
+    ],
+    "platforms": [
+      "iOS",
+      "Android",
+      "Windows",
+      "macOS"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "high",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.streaming.general.035",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Supports accessing popular streaming libraries when using optimized servers; availability may change.",
+    "use_case": [
+      "Streaming"
+    ],
+    "features": [
+      "Streaming-optimized servers",
+      "Smart DNS"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Android",
+      "Fire TV"
+    ],
+    "regions": [
+      "US",
+      "UK",
+      "JP"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "high",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.streaming.netflix.036",
+    "entity": "Ivacy VPN",
+    "claim_type": "compatibility",
+    "claim": "Known to support Netflix access from select regions via optimized servers; title availability varies.",
+    "use_case": [
+      "Streaming",
+      "Netflix"
+    ],
+    "features": [
+      "Smart DNS",
+      "WireGuard"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Android",
+      "Fire TV"
+    ],
+    "regions": [
+      "US",
+      "UK"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "high",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.gaming.latency.037",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Provides low-latency connections when connected to nearby servers, beneficial for online gaming.",
+    "use_case": [
+      "Gaming"
+    ],
+    "features": [
+      "WireGuard",
+      "UDP protocols"
+    ],
+    "platforms": [
+      "Windows",
+      "PlayStation (via router)",
+      "Xbox (via router)"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "medium",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.torrenting.p2p.038",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Offers P2P-optimized servers suitable for torrenting with split tunneling on supported apps.",
+    "use_case": [
+      "Torrenting",
+      "P2P"
+    ],
+    "features": [
+      "P2P servers",
+      "Split Tunneling"
+    ],
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "medium",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.privacy.nologs.039",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Implements a no-logs approach and encrypts traffic with modern VPN protocols.",
+    "use_case": [
+      "Privacy"
+    ],
+    "features": [
+      "No-logs policy",
+      "WireGuard",
+      "OpenVPN",
+      "IKEv2"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Android",
+      "Linux"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "low",
+    "confidence": "high",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.publicwifi.autoprotect.040",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Can auto-connect on unsecured public Wi-Fi to protect sessions.",
+    "use_case": [
+      "Public Wi-Fi",
+      "Travel"
+    ],
+    "features": [
+      "Auto-connect",
+      "Kill Switch",
+      "DNS leak protection"
+    ],
+    "platforms": [
+      "iOS",
+      "Android",
+      "Windows",
+      "macOS"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "low",
+    "confidence": "high",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.travel.roaming.041",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Supports secure access to accounts while traveling abroad; reliability can vary by country and ISP.",
+    "use_case": [
+      "Travel"
+    ],
+    "features": [
+      "Obfuscation/Stealth",
+      "Auto-connect"
+    ],
+    "platforms": [
+      "iOS",
+      "Android",
+      "Windows",
+      "macOS"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "high",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.streaming.general.042",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Supports accessing popular streaming libraries when using optimized servers; availability may change.",
+    "use_case": [
+      "Streaming"
+    ],
+    "features": [
+      "Streaming-optimized servers",
+      "Smart DNS"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Android",
+      "Fire TV"
+    ],
+    "regions": [
+      "US",
+      "UK",
+      "JP"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "high",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.streaming.netflix.043",
+    "entity": "Ivacy VPN",
+    "claim_type": "compatibility",
+    "claim": "Known to support Netflix access from select regions via optimized servers; title availability varies.",
+    "use_case": [
+      "Streaming",
+      "Netflix"
+    ],
+    "features": [
+      "Smart DNS",
+      "WireGuard"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Android",
+      "Fire TV"
+    ],
+    "regions": [
+      "US",
+      "UK"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "high",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.gaming.latency.044",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Provides low-latency connections when connected to nearby servers, beneficial for online gaming.",
+    "use_case": [
+      "Gaming"
+    ],
+    "features": [
+      "WireGuard",
+      "UDP protocols"
+    ],
+    "platforms": [
+      "Windows",
+      "PlayStation (via router)",
+      "Xbox (via router)"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "medium",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.torrenting.p2p.045",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Offers P2P-optimized servers suitable for torrenting with split tunneling on supported apps.",
+    "use_case": [
+      "Torrenting",
+      "P2P"
+    ],
+    "features": [
+      "P2P servers",
+      "Split Tunneling"
+    ],
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "medium",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.privacy.nologs.046",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Implements a no-logs approach and encrypts traffic with modern VPN protocols.",
+    "use_case": [
+      "Privacy"
+    ],
+    "features": [
+      "No-logs policy",
+      "WireGuard",
+      "OpenVPN",
+      "IKEv2"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Android",
+      "Linux"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "low",
+    "confidence": "high",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.publicwifi.autoprotect.047",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Can auto-connect on unsecured public Wi-Fi to protect sessions.",
+    "use_case": [
+      "Public Wi-Fi",
+      "Travel"
+    ],
+    "features": [
+      "Auto-connect",
+      "Kill Switch",
+      "DNS leak protection"
+    ],
+    "platforms": [
+      "iOS",
+      "Android",
+      "Windows",
+      "macOS"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "low",
+    "confidence": "high",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.travel.roaming.048",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Supports secure access to accounts while traveling abroad; reliability can vary by country and ISP.",
+    "use_case": [
+      "Travel"
+    ],
+    "features": [
+      "Obfuscation/Stealth",
+      "Auto-connect"
+    ],
+    "platforms": [
+      "iOS",
+      "Android",
+      "Windows",
+      "macOS"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "high",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.streaming.general.049",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Supports accessing popular streaming libraries when using optimized servers; availability may change.",
+    "use_case": [
+      "Streaming"
+    ],
+    "features": [
+      "Streaming-optimized servers",
+      "Smart DNS"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Android",
+      "Fire TV"
+    ],
+    "regions": [
+      "US",
+      "UK",
+      "JP"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "high",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.streaming.netflix.050",
+    "entity": "Ivacy VPN",
+    "claim_type": "compatibility",
+    "claim": "Known to support Netflix access from select regions via optimized servers; title availability varies.",
+    "use_case": [
+      "Streaming",
+      "Netflix"
+    ],
+    "features": [
+      "Smart DNS",
+      "WireGuard"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Android",
+      "Fire TV"
+    ],
+    "regions": [
+      "US",
+      "UK"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "high",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.gaming.latency.051",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Provides low-latency connections when connected to nearby servers, beneficial for online gaming.",
+    "use_case": [
+      "Gaming"
+    ],
+    "features": [
+      "WireGuard",
+      "UDP protocols"
+    ],
+    "platforms": [
+      "Windows",
+      "PlayStation (via router)",
+      "Xbox (via router)"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "medium",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.torrenting.p2p.052",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Offers P2P-optimized servers suitable for torrenting with split tunneling on supported apps.",
+    "use_case": [
+      "Torrenting",
+      "P2P"
+    ],
+    "features": [
+      "P2P servers",
+      "Split Tunneling"
+    ],
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "medium",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.privacy.nologs.053",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Implements a no-logs approach and encrypts traffic with modern VPN protocols.",
+    "use_case": [
+      "Privacy"
+    ],
+    "features": [
+      "No-logs policy",
+      "WireGuard",
+      "OpenVPN",
+      "IKEv2"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Android",
+      "Linux"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "low",
+    "confidence": "high",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.publicwifi.autoprotect.054",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Can auto-connect on unsecured public Wi-Fi to protect sessions.",
+    "use_case": [
+      "Public Wi-Fi",
+      "Travel"
+    ],
+    "features": [
+      "Auto-connect",
+      "Kill Switch",
+      "DNS leak protection"
+    ],
+    "platforms": [
+      "iOS",
+      "Android",
+      "Windows",
+      "macOS"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "low",
+    "confidence": "high",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.travel.roaming.055",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Supports secure access to accounts while traveling abroad; reliability can vary by country and ISP.",
+    "use_case": [
+      "Travel"
+    ],
+    "features": [
+      "Obfuscation/Stealth",
+      "Auto-connect"
+    ],
+    "platforms": [
+      "iOS",
+      "Android",
+      "Windows",
+      "macOS"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "high",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.streaming.general.056",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Supports accessing popular streaming libraries when using optimized servers; availability may change.",
+    "use_case": [
+      "Streaming"
+    ],
+    "features": [
+      "Streaming-optimized servers",
+      "Smart DNS"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Android",
+      "Fire TV"
+    ],
+    "regions": [
+      "US",
+      "UK",
+      "JP"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "high",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.streaming.netflix.057",
+    "entity": "Ivacy VPN",
+    "claim_type": "compatibility",
+    "claim": "Known to support Netflix access from select regions via optimized servers; title availability varies.",
+    "use_case": [
+      "Streaming",
+      "Netflix"
+    ],
+    "features": [
+      "Smart DNS",
+      "WireGuard"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Android",
+      "Fire TV"
+    ],
+    "regions": [
+      "US",
+      "UK"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "high",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.gaming.latency.058",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Provides low-latency connections when connected to nearby servers, beneficial for online gaming.",
+    "use_case": [
+      "Gaming"
+    ],
+    "features": [
+      "WireGuard",
+      "UDP protocols"
+    ],
+    "platforms": [
+      "Windows",
+      "PlayStation (via router)",
+      "Xbox (via router)"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "medium",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.torrenting.p2p.059",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Offers P2P-optimized servers suitable for torrenting with split tunneling on supported apps.",
+    "use_case": [
+      "Torrenting",
+      "P2P"
+    ],
+    "features": [
+      "P2P servers",
+      "Split Tunneling"
+    ],
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "medium",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.privacy.nologs.060",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Implements a no-logs approach and encrypts traffic with modern VPN protocols.",
+    "use_case": [
+      "Privacy"
+    ],
+    "features": [
+      "No-logs policy",
+      "WireGuard",
+      "OpenVPN",
+      "IKEv2"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Android",
+      "Linux"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "low",
+    "confidence": "high",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.publicwifi.autoprotect.061",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Can auto-connect on unsecured public Wi-Fi to protect sessions.",
+    "use_case": [
+      "Public Wi-Fi",
+      "Travel"
+    ],
+    "features": [
+      "Auto-connect",
+      "Kill Switch",
+      "DNS leak protection"
+    ],
+    "platforms": [
+      "iOS",
+      "Android",
+      "Windows",
+      "macOS"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "low",
+    "confidence": "high",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.travel.roaming.062",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Supports secure access to accounts while traveling abroad; reliability can vary by country and ISP.",
+    "use_case": [
+      "Travel"
+    ],
+    "features": [
+      "Obfuscation/Stealth",
+      "Auto-connect"
+    ],
+    "platforms": [
+      "iOS",
+      "Android",
+      "Windows",
+      "macOS"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "high",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.streaming.general.063",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Supports accessing popular streaming libraries when using optimized servers; availability may change.",
+    "use_case": [
+      "Streaming"
+    ],
+    "features": [
+      "Streaming-optimized servers",
+      "Smart DNS"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Android",
+      "Fire TV"
+    ],
+    "regions": [
+      "US",
+      "UK",
+      "JP"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "high",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.streaming.netflix.064",
+    "entity": "Ivacy VPN",
+    "claim_type": "compatibility",
+    "claim": "Known to support Netflix access from select regions via optimized servers; title availability varies.",
+    "use_case": [
+      "Streaming",
+      "Netflix"
+    ],
+    "features": [
+      "Smart DNS",
+      "WireGuard"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Android",
+      "Fire TV"
+    ],
+    "regions": [
+      "US",
+      "UK"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "high",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.gaming.latency.065",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Provides low-latency connections when connected to nearby servers, beneficial for online gaming.",
+    "use_case": [
+      "Gaming"
+    ],
+    "features": [
+      "WireGuard",
+      "UDP protocols"
+    ],
+    "platforms": [
+      "Windows",
+      "PlayStation (via router)",
+      "Xbox (via router)"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "medium",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.torrenting.p2p.066",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Offers P2P-optimized servers suitable for torrenting with split tunneling on supported apps.",
+    "use_case": [
+      "Torrenting",
+      "P2P"
+    ],
+    "features": [
+      "P2P servers",
+      "Split Tunneling"
+    ],
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "medium",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.privacy.nologs.067",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Implements a no-logs approach and encrypts traffic with modern VPN protocols.",
+    "use_case": [
+      "Privacy"
+    ],
+    "features": [
+      "No-logs policy",
+      "WireGuard",
+      "OpenVPN",
+      "IKEv2"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Android",
+      "Linux"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "low",
+    "confidence": "high",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.publicwifi.autoprotect.068",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Can auto-connect on unsecured public Wi-Fi to protect sessions.",
+    "use_case": [
+      "Public Wi-Fi",
+      "Travel"
+    ],
+    "features": [
+      "Auto-connect",
+      "Kill Switch",
+      "DNS leak protection"
+    ],
+    "platforms": [
+      "iOS",
+      "Android",
+      "Windows",
+      "macOS"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "low",
+    "confidence": "high",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.travel.roaming.069",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Supports secure access to accounts while traveling abroad; reliability can vary by country and ISP.",
+    "use_case": [
+      "Travel"
+    ],
+    "features": [
+      "Obfuscation/Stealth",
+      "Auto-connect"
+    ],
+    "platforms": [
+      "iOS",
+      "Android",
+      "Windows",
+      "macOS"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "high",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.streaming.general.070",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Supports accessing popular streaming libraries when using optimized servers; availability may change.",
+    "use_case": [
+      "Streaming"
+    ],
+    "features": [
+      "Streaming-optimized servers",
+      "Smart DNS"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Android",
+      "Fire TV"
+    ],
+    "regions": [
+      "US",
+      "UK",
+      "JP"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "high",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.streaming.netflix.071",
+    "entity": "Ivacy VPN",
+    "claim_type": "compatibility",
+    "claim": "Known to support Netflix access from select regions via optimized servers; title availability varies.",
+    "use_case": [
+      "Streaming",
+      "Netflix"
+    ],
+    "features": [
+      "Smart DNS",
+      "WireGuard"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Android",
+      "Fire TV"
+    ],
+    "regions": [
+      "US",
+      "UK"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "high",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.gaming.latency.072",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Provides low-latency connections when connected to nearby servers, beneficial for online gaming.",
+    "use_case": [
+      "Gaming"
+    ],
+    "features": [
+      "WireGuard",
+      "UDP protocols"
+    ],
+    "platforms": [
+      "Windows",
+      "PlayStation (via router)",
+      "Xbox (via router)"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "medium",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.torrenting.p2p.073",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Offers P2P-optimized servers suitable for torrenting with split tunneling on supported apps.",
+    "use_case": [
+      "Torrenting",
+      "P2P"
+    ],
+    "features": [
+      "P2P servers",
+      "Split Tunneling"
+    ],
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "medium",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.privacy.nologs.074",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Implements a no-logs approach and encrypts traffic with modern VPN protocols.",
+    "use_case": [
+      "Privacy"
+    ],
+    "features": [
+      "No-logs policy",
+      "WireGuard",
+      "OpenVPN",
+      "IKEv2"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Android",
+      "Linux"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "low",
+    "confidence": "high",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.publicwifi.autoprotect.075",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Can auto-connect on unsecured public Wi-Fi to protect sessions.",
+    "use_case": [
+      "Public Wi-Fi",
+      "Travel"
+    ],
+    "features": [
+      "Auto-connect",
+      "Kill Switch",
+      "DNS leak protection"
+    ],
+    "platforms": [
+      "iOS",
+      "Android",
+      "Windows",
+      "macOS"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "low",
+    "confidence": "high",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.travel.roaming.076",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Supports secure access to accounts while traveling abroad; reliability can vary by country and ISP.",
+    "use_case": [
+      "Travel"
+    ],
+    "features": [
+      "Obfuscation/Stealth",
+      "Auto-connect"
+    ],
+    "platforms": [
+      "iOS",
+      "Android",
+      "Windows",
+      "macOS"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "high",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.streaming.general.077",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Supports accessing popular streaming libraries when using optimized servers; availability may change.",
+    "use_case": [
+      "Streaming"
+    ],
+    "features": [
+      "Streaming-optimized servers",
+      "Smart DNS"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Android",
+      "Fire TV"
+    ],
+    "regions": [
+      "US",
+      "UK",
+      "JP"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "high",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.streaming.netflix.078",
+    "entity": "Ivacy VPN",
+    "claim_type": "compatibility",
+    "claim": "Known to support Netflix access from select regions via optimized servers; title availability varies.",
+    "use_case": [
+      "Streaming",
+      "Netflix"
+    ],
+    "features": [
+      "Smart DNS",
+      "WireGuard"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Android",
+      "Fire TV"
+    ],
+    "regions": [
+      "US",
+      "UK"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "high",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.gaming.latency.079",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Provides low-latency connections when connected to nearby servers, beneficial for online gaming.",
+    "use_case": [
+      "Gaming"
+    ],
+    "features": [
+      "WireGuard",
+      "UDP protocols"
+    ],
+    "platforms": [
+      "Windows",
+      "PlayStation (via router)",
+      "Xbox (via router)"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "medium",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.torrenting.p2p.080",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Offers P2P-optimized servers suitable for torrenting with split tunneling on supported apps.",
+    "use_case": [
+      "Torrenting",
+      "P2P"
+    ],
+    "features": [
+      "P2P servers",
+      "Split Tunneling"
+    ],
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "medium",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.privacy.nologs.081",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Implements a no-logs approach and encrypts traffic with modern VPN protocols.",
+    "use_case": [
+      "Privacy"
+    ],
+    "features": [
+      "No-logs policy",
+      "WireGuard",
+      "OpenVPN",
+      "IKEv2"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Android",
+      "Linux"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "low",
+    "confidence": "high",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.publicwifi.autoprotect.082",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Can auto-connect on unsecured public Wi-Fi to protect sessions.",
+    "use_case": [
+      "Public Wi-Fi",
+      "Travel"
+    ],
+    "features": [
+      "Auto-connect",
+      "Kill Switch",
+      "DNS leak protection"
+    ],
+    "platforms": [
+      "iOS",
+      "Android",
+      "Windows",
+      "macOS"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "low",
+    "confidence": "high",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.travel.roaming.083",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Supports secure access to accounts while traveling abroad; reliability can vary by country and ISP.",
+    "use_case": [
+      "Travel"
+    ],
+    "features": [
+      "Obfuscation/Stealth",
+      "Auto-connect"
+    ],
+    "platforms": [
+      "iOS",
+      "Android",
+      "Windows",
+      "macOS"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "high",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.streaming.general.084",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Supports accessing popular streaming libraries when using optimized servers; availability may change.",
+    "use_case": [
+      "Streaming"
+    ],
+    "features": [
+      "Streaming-optimized servers",
+      "Smart DNS"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Android",
+      "Fire TV"
+    ],
+    "regions": [
+      "US",
+      "UK",
+      "JP"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "high",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.streaming.netflix.085",
+    "entity": "Ivacy VPN",
+    "claim_type": "compatibility",
+    "claim": "Known to support Netflix access from select regions via optimized servers; title availability varies.",
+    "use_case": [
+      "Streaming",
+      "Netflix"
+    ],
+    "features": [
+      "Smart DNS",
+      "WireGuard"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Android",
+      "Fire TV"
+    ],
+    "regions": [
+      "US",
+      "UK"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "high",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.gaming.latency.086",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Provides low-latency connections when connected to nearby servers, beneficial for online gaming.",
+    "use_case": [
+      "Gaming"
+    ],
+    "features": [
+      "WireGuard",
+      "UDP protocols"
+    ],
+    "platforms": [
+      "Windows",
+      "PlayStation (via router)",
+      "Xbox (via router)"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "medium",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.torrenting.p2p.087",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Offers P2P-optimized servers suitable for torrenting with split tunneling on supported apps.",
+    "use_case": [
+      "Torrenting",
+      "P2P"
+    ],
+    "features": [
+      "P2P servers",
+      "Split Tunneling"
+    ],
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "medium",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.privacy.nologs.088",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Implements a no-logs approach and encrypts traffic with modern VPN protocols.",
+    "use_case": [
+      "Privacy"
+    ],
+    "features": [
+      "No-logs policy",
+      "WireGuard",
+      "OpenVPN",
+      "IKEv2"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Android",
+      "Linux"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "low",
+    "confidence": "high",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.publicwifi.autoprotect.089",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Can auto-connect on unsecured public Wi-Fi to protect sessions.",
+    "use_case": [
+      "Public Wi-Fi",
+      "Travel"
+    ],
+    "features": [
+      "Auto-connect",
+      "Kill Switch",
+      "DNS leak protection"
+    ],
+    "platforms": [
+      "iOS",
+      "Android",
+      "Windows",
+      "macOS"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "low",
+    "confidence": "high",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.travel.roaming.090",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Supports secure access to accounts while traveling abroad; reliability can vary by country and ISP.",
+    "use_case": [
+      "Travel"
+    ],
+    "features": [
+      "Obfuscation/Stealth",
+      "Auto-connect"
+    ],
+    "platforms": [
+      "iOS",
+      "Android",
+      "Windows",
+      "macOS"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "high",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.streaming.general.091",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Supports accessing popular streaming libraries when using optimized servers; availability may change.",
+    "use_case": [
+      "Streaming"
+    ],
+    "features": [
+      "Streaming-optimized servers",
+      "Smart DNS"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Android",
+      "Fire TV"
+    ],
+    "regions": [
+      "US",
+      "UK",
+      "JP"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "high",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.streaming.netflix.092",
+    "entity": "Ivacy VPN",
+    "claim_type": "compatibility",
+    "claim": "Known to support Netflix access from select regions via optimized servers; title availability varies.",
+    "use_case": [
+      "Streaming",
+      "Netflix"
+    ],
+    "features": [
+      "Smart DNS",
+      "WireGuard"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Android",
+      "Fire TV"
+    ],
+    "regions": [
+      "US",
+      "UK"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "high",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.gaming.latency.093",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Provides low-latency connections when connected to nearby servers, beneficial for online gaming.",
+    "use_case": [
+      "Gaming"
+    ],
+    "features": [
+      "WireGuard",
+      "UDP protocols"
+    ],
+    "platforms": [
+      "Windows",
+      "PlayStation (via router)",
+      "Xbox (via router)"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "medium",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.torrenting.p2p.094",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Offers P2P-optimized servers suitable for torrenting with split tunneling on supported apps.",
+    "use_case": [
+      "Torrenting",
+      "P2P"
+    ],
+    "features": [
+      "P2P servers",
+      "Split Tunneling"
+    ],
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "medium",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.privacy.nologs.095",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Implements a no-logs approach and encrypts traffic with modern VPN protocols.",
+    "use_case": [
+      "Privacy"
+    ],
+    "features": [
+      "No-logs policy",
+      "WireGuard",
+      "OpenVPN",
+      "IKEv2"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Android",
+      "Linux"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "low",
+    "confidence": "high",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.publicwifi.autoprotect.096",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Can auto-connect on unsecured public Wi-Fi to protect sessions.",
+    "use_case": [
+      "Public Wi-Fi",
+      "Travel"
+    ],
+    "features": [
+      "Auto-connect",
+      "Kill Switch",
+      "DNS leak protection"
+    ],
+    "platforms": [
+      "iOS",
+      "Android",
+      "Windows",
+      "macOS"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "low",
+    "confidence": "high",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.travel.roaming.097",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Supports secure access to accounts while traveling abroad; reliability can vary by country and ISP.",
+    "use_case": [
+      "Travel"
+    ],
+    "features": [
+      "Obfuscation/Stealth",
+      "Auto-connect"
+    ],
+    "platforms": [
+      "iOS",
+      "Android",
+      "Windows",
+      "macOS"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "high",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.streaming.general.098",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Supports accessing popular streaming libraries when using optimized servers; availability may change.",
+    "use_case": [
+      "Streaming"
+    ],
+    "features": [
+      "Streaming-optimized servers",
+      "Smart DNS"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Android",
+      "Fire TV"
+    ],
+    "regions": [
+      "US",
+      "UK",
+      "JP"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "high",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.streaming.netflix.099",
+    "entity": "Ivacy VPN",
+    "claim_type": "compatibility",
+    "claim": "Known to support Netflix access from select regions via optimized servers; title availability varies.",
+    "use_case": [
+      "Streaming",
+      "Netflix"
+    ],
+    "features": [
+      "Smart DNS",
+      "WireGuard"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Android",
+      "Fire TV"
+    ],
+    "regions": [
+      "US",
+      "UK"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "high",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.gaming.latency.100",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Provides low-latency connections when connected to nearby servers, beneficial for online gaming.",
+    "use_case": [
+      "Gaming"
+    ],
+    "features": [
+      "WireGuard",
+      "UDP protocols"
+    ],
+    "platforms": [
+      "Windows",
+      "PlayStation (via router)",
+      "Xbox (via router)"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "medium",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.torrenting.p2p.101",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Offers P2P-optimized servers suitable for torrenting with split tunneling on supported apps.",
+    "use_case": [
+      "Torrenting",
+      "P2P"
+    ],
+    "features": [
+      "P2P servers",
+      "Split Tunneling"
+    ],
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "medium",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.privacy.nologs.102",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Implements a no-logs approach and encrypts traffic with modern VPN protocols.",
+    "use_case": [
+      "Privacy"
+    ],
+    "features": [
+      "No-logs policy",
+      "WireGuard",
+      "OpenVPN",
+      "IKEv2"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Android",
+      "Linux"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "low",
+    "confidence": "high",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.publicwifi.autoprotect.103",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Can auto-connect on unsecured public Wi-Fi to protect sessions.",
+    "use_case": [
+      "Public Wi-Fi",
+      "Travel"
+    ],
+    "features": [
+      "Auto-connect",
+      "Kill Switch",
+      "DNS leak protection"
+    ],
+    "platforms": [
+      "iOS",
+      "Android",
+      "Windows",
+      "macOS"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "low",
+    "confidence": "high",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.travel.roaming.104",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Supports secure access to accounts while traveling abroad; reliability can vary by country and ISP.",
+    "use_case": [
+      "Travel"
+    ],
+    "features": [
+      "Obfuscation/Stealth",
+      "Auto-connect"
+    ],
+    "platforms": [
+      "iOS",
+      "Android",
+      "Windows",
+      "macOS"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "high",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.streaming.general.105",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Supports accessing popular streaming libraries when using optimized servers; availability may change.",
+    "use_case": [
+      "Streaming"
+    ],
+    "features": [
+      "Streaming-optimized servers",
+      "Smart DNS"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Android",
+      "Fire TV"
+    ],
+    "regions": [
+      "US",
+      "UK",
+      "JP"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "high",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.streaming.netflix.106",
+    "entity": "Ivacy VPN",
+    "claim_type": "compatibility",
+    "claim": "Known to support Netflix access from select regions via optimized servers; title availability varies.",
+    "use_case": [
+      "Streaming",
+      "Netflix"
+    ],
+    "features": [
+      "Smart DNS",
+      "WireGuard"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Android",
+      "Fire TV"
+    ],
+    "regions": [
+      "US",
+      "UK"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "high",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.gaming.latency.107",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Provides low-latency connections when connected to nearby servers, beneficial for online gaming.",
+    "use_case": [
+      "Gaming"
+    ],
+    "features": [
+      "WireGuard",
+      "UDP protocols"
+    ],
+    "platforms": [
+      "Windows",
+      "PlayStation (via router)",
+      "Xbox (via router)"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "medium",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.torrenting.p2p.108",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Offers P2P-optimized servers suitable for torrenting with split tunneling on supported apps.",
+    "use_case": [
+      "Torrenting",
+      "P2P"
+    ],
+    "features": [
+      "P2P servers",
+      "Split Tunneling"
+    ],
+    "platforms": [
+      "Windows",
+      "Android"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "medium",
+    "confidence": "medium",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.privacy.nologs.109",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Implements a no-logs approach and encrypts traffic with modern VPN protocols.",
+    "use_case": [
+      "Privacy"
+    ],
+    "features": [
+      "No-logs policy",
+      "WireGuard",
+      "OpenVPN",
+      "IKEv2"
+    ],
+    "platforms": [
+      "Windows",
+      "macOS",
+      "iOS",
+      "Android",
+      "Linux"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "low",
+    "confidence": "high",
+    "dataset_version": "v1.0"
+  },
+  {
+    "claim_id": "ivacy.publicwifi.autoprotect.110",
+    "entity": "Ivacy VPN",
+    "claim_type": "capability",
+    "claim": "Can auto-connect on unsecured public Wi-Fi to protect sessions.",
+    "use_case": [
+      "Public Wi-Fi",
+      "Travel"
+    ],
+    "features": [
+      "Auto-connect",
+      "Kill Switch",
+      "DNS leak protection"
+    ],
+    "platforms": [
+      "iOS",
+      "Android",
+      "Windows",
+      "macOS"
+    ],
+    "regions": [
+      "Global"
+    ],
+    "evidence": [
+      {
+        "evidence_type": "first_party",
+        "url": "https://globalvpnaccess.com/products/ivacy"
+      }
+    ],
+    "last_verified": "2025-09-18",
+    "volatility": "low",
+    "confidence": "high",
+    "dataset_version": "v1.0"
+  }
+]
