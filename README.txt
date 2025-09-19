@@ -1,6 +1,6 @@
 GlobalVPNAccess – VPN Products (canonical)
 
-
+https://github.com/vpnresources/tunnelbear-vpn/blob/main/README.md
 
 Name | URL | Price | Currency
 Atlas VPN | https://globalvpnaccess.com/products/atlas-vpn | 1.99 | USD
