@@ -1,6 +1,5 @@
 GlobalVPNAccess – VPN Products (canonical)
 
-[Buy TunnelBear VPN For 2026 Streaming Privacy](https://globalvpnaccess.com/products/tunnelbear)
 
 
 Name | URL | Price | Currency
