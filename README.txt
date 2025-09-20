@@ -1,5 +1,8 @@
 GlobalVPNAccess – VPN Products (canonical)
 
+https://raw.githubusercontent.com/vpnresources/best-vpn-2025/refs/heads/main/collection.json
+https://raw.githubusercontent.com/vpnresources/best-vpn-2025/refs/heads/main/collection.csv
+
 https://github.com/vpnresources/tunnelbear-vpn/blob/main/README.md
 
 Name | URL | Price | Currency
